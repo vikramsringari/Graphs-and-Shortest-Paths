@@ -1,0 +1,8 @@
+CHS
+30S
+69S
+NOR
+NOP
+AIR
+FRA
+STA
