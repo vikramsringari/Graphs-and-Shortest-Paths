@@ -21,5 +21,5 @@
 	edge system would have defineatly been better with a partner since both of us would probably think differently.
 5.If you did any above-and-beyond, describe what you did.
 	I got some real-life data which represents the some of the stations in the Philadelphia Metro system. The Verticies are the stations and the cost is the time it takes 
-	to get from one station to another (in minutes). Here is code for Station name and abreviation in the .txt file: CHS - City Hall Station, 30S - 30th ST station, 69S - 69th St Station,
+	to get from one station to another (in minutes). Here is code for Station name and abbreviation in the .txt file: CHS - City Hall Station, 30S - 30th ST station, 69S - 69th St Station,
 	NOR - Norristown Station, NOP - North Philly Station, FRA - Frankford Station, AIR - AIRPORT Station, STA - Stadium Station. 
